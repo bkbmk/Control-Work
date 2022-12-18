@@ -9,5 +9,7 @@
 ### Создать репозиторий на GitHub
 Ссылка на созданный репозиторий -> github.com/arhangel2i/Control_Work
 ### Нарисовать блок схему алгоритма
-Блок схема алгоритма расположенна непосредственно на самом репозитории -> 
+Блок схема алгоритма  
 ![block_diagram](https://user-images.githubusercontent.com/103956470/208291092-026716d8-1c57-4a3f-aed9-2d9e2dc11d60.png)
+### Снабдить репозиторий оформленным текстовым описанием (файл Readme.md)
+Ссылка на файл Readme -> https://github.com/bkbmk/Control-Work/blob/main/README.md
